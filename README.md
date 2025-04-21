@@ -57,5 +57,5 @@ Challenges
 -LLM api rate Limits
 -No third parties are free of cost
 -No sites avaliable for few websites
--Selenium debugging isses as is heavy weight
+-Selenium debugging isses as it is heavy weight
 
